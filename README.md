@@ -14,7 +14,6 @@ Portfólio criado com o intuito de mostrar meus projetos ao decorrer da minha ca
 
 ### Os bootcamps que estou estudando e buscando novos desafios na [Digital Innovation One](https://digitalinnovation.one/).
 
-#### São:
 <p align="center">
 <!-- Ícones das linguagens -->
 <!-- Java -->
@@ -25,8 +24,8 @@ Portfólio criado com o intuito de mostrar meus projetos ao decorrer da minha ca
 <img src="./photo/gft.png" alt=" - GFT Start #4 Java" tittle="GFT" width="70" height="70">
 </a>
 </p>
-----------------------------------------------------
 
+  
 # 📖 Tutorial de Programação Java - Beginner book.
 
 > Este tutorial de programação Java surgiu de uma série de palestras
@@ -48,7 +47,7 @@ Portfólio criado com o intuito de mostrar meus projetos ao decorrer da minha ca
 
 **Waldeck Schützer e Sadao Massago ***
 
-------------------------------
+ ---
 
 # Índice
 
@@ -81,7 +80,7 @@ Portfólio criado com o intuito de mostrar meus projetos ao decorrer da minha ca
     (java.awt)](https://www.dm.ufscar.br/~waldeck/curso/java/part36.html)
     
 
--------------------------
+---
 
 # Sobre os autores
 
@@ -104,9 +103,9 @@ Matemática Aplicada, Eletrônica e Fotografia.
 Ele utiliza java rotineiramente para processamento digital
 de imagens e sinais.
   
- -----------------------
+
   
-## :key: Códigos Importantes para ser utilizada
+# :key: Códigos Importantes para ser utilizada
 
 1. Comandos importantes do *Prompt de Comando* (também utilizado no Git):
 - **`cls(win), clear ou clrt+L(git, linux)`** - para apagar todo o histórico do cmd;
