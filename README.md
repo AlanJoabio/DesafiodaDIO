@@ -1,9 +1,9 @@
 <!-- Badges session -->
 <p align="center">
 <!-- repo size -->
-![GitHub repo size](https://img.shields.io/github/repo-size/AlanJoabio/DesafiodaDIO)
-<!-- licence MIT -->
-![GitHub](https://img.shields.io/github/license/AlanJoabio/DesafiodaDIO)
+<img src="[![GitHub repo size](https://img.shields.io/github/repo-size/AlanJoabio/DesafiodaDIO)]"
+
+<img src="[![GitHub](https://img.shields.io/github/license/AlanJoabio/DesafiodaDIO)]"
 </p>
   
 <h1 align="center">
