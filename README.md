@@ -89,7 +89,7 @@ Portfólio criado com o intuito de mostrar meus projetos ao decorrer da minha ca
 
 # Sobre os autores
 
-![](https://www.dm.ufscar.br/~waldeck/curso/java/sadao.jpg)
+https://www.dm.ufscar.br/~waldeck/curso/java/sadao.jpg
 
 [Sadao Massago](http://www.dm.ufscar.br/~sadao/) é licenciado em Matemática pela UEM,
 Mestre em Ciências pelo ICMC-USP e Doutor em
