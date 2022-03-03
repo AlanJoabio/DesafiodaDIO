@@ -15,9 +15,13 @@ Portfólio criado com o intuito de mostrar meus projetos ao decorrer da minha ca
 ### Os bootcamps que estou estudando e buscando novos desafios na [Digital Innovation One](https://digitalinnovation.one/).
 
 #### São:
+
+<p align="center">
+<img src="./photo/java.png" alt="java" tittle="Java">
+</p>
+
 <!-- Ícones das linguagens -->
 <!-- Java -->
-
 <a href="[https://web.dio.me/track/java-developer]">
 <img src="./assets/java.svg" alt=" - Java Developer" tittle="Java" width="70" height="70">
 
