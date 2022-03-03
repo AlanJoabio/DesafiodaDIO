@@ -1,7 +1,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/AlanJoabio/DesafiodaDIO) 
 
 <!-- repo size -->
-<img src="[https://img.shields.io/github/repo-size/AlanJoabio/DesafiodaDIO](https://img.shields.io/github/repo-size/AlanJoabio/DesafiodaDIO)" alt="Tamanho do repositório">
+<img src="[https://img.shields.io/github/repo-size/AlanJoabio/DesafiodaDIO](https://img.shields.io/github/repo-size/AlanJoabio/DesafiodaDIO)">
 
 
 <!--Banner session-->
