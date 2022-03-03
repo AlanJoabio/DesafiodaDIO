@@ -29,6 +29,91 @@ Portfólio criado com o intuito de mostrar meus projetos ao decorrer da minha ca
 <img src="./assets/java.svg" alt=" - GFT Start #4 Java" tittle="Java" width="70" height="70">
 </a>
 
+----------------------------------------------------
+
+# 📖 Tutorial de Programação Java - um book para iniciante.
+
+> Este tutorial de programação Java surgiu de uma série de palestras
+> ministradas pelos autores aos professores e alunos do Departamento
+> de Matemática da UFSCar, com o objetivo de apresentar a eles
+> a linguagem Java como potencial instrumento de apoio ao ensino.
+> 
+> Como tal, apresentamos os conceitos básicos dessa linguagem
+> permitindo dar os primeiros passos que conduzem ao seu aprendizado. Em
+> nenhum momento pretendemos que este texto seja um substituto para um bom
+> curso de Java, mas também não ignoramos o valor que
+> este material possa ter para um iniciante.
+> 
+> Em qualquer caso, disponibilizamos este material para a audiência
+> geral
+> da Internet na esperança em que ele venha a ser útil a alguém, mas sem quaisquer garantias, nem mesmo as de correção e
+> de atualização. Nesse sentido, os autores sentem-se imensamente
+> gratos pela valiosíssima resposta que seus leitores desejem lhes dar.
+
+**Waldeck Schützer e Sadao Massago ***
+
+------------------------------
+
+# Índice
+
+1. [Introdução](https://www.dm.ufscar.br/~waldeck/curso/java/introd.html)
+  
+2. Programação Básica
+  
+  1. [Primeiros Exemplos](https://www.dm.ufscar.br/~waldeck/curso/java/part21.html)
+    
+  2. [Tipos de Dados](https://www.dm.ufscar.br/~waldeck/curso/java/part22.html)
+    
+  3. [Vetores e Matrizes](https://www.dm.ufscar.br/~waldeck/curso/java/part23.html)
+    
+  4. [Métodos](https://www.dm.ufscar.br/~waldeck/curso/java/part24.html)
+    
+  5. [Expressões](https://www.dm.ufscar.br/~waldeck/curso/java/part25.html)
+    
+  6. [Controle de Fluxo](https://www.dm.ufscar.br/~waldeck/curso/java/part26.html)
+    
+  7. [Classes](https://www.dm.ufscar.br/~waldeck/curso/java/part27.html)
+    
+3. Programação Avançada
+  
+  1. [Escrevendo applets](https://www.dm.ufscar.br/~waldeck/curso/java/part33.html)
+    
+  2. [Projeto 01: applet
+    de desenho](https://www.dm.ufscar.br/~waldeck/curso/java/part34.html)
+    
+  3. [Trabalhando com gráficos
+    (java.awt)](https://www.dm.ufscar.br/~waldeck/curso/java/part36.html)
+    
+
+-------------------------
+
+# Sobre os autores
+
+![](https://www.dm.ufscar.br/~waldeck/curso/java/sadao.jpg)
+
+[Sadao Massago](http://www.dm.ufscar.br/~sadao/) é licenciado em Matemática pela UEM,
+Mestre em Ciências pelo ICMC-USP e Doutor em
+Matemática pelo ICMC-USP. Ele é professor
+no Departamento de Matemática da UFSCar desde 1995.
+
+Seus principais interesses são Topologia Algébrica,
+Teoria de Nós, Matemática Aplicada e
+Programação de Computadores.
+
+![](https://www.dm.ufscar.br/~waldeck/curso/java/waldeck.jpg)
+
+[Waldeck Schützer](http://www.dm.ufscar.br/~waldeck/)[Follow @ProfSchutzer](http://twitter.com/ProfSchutzer)  
+é bacharel em Matemática
+pelo ICMC-USP, Mestre em Ciências pelo ICMC-USP e Ph.D. em
+Matemática pela Rutgers University, EUA. Ele é profesor
+do Departamento de Matemática da UFSCar desde 1996. Seus principais
+interesses são Álgebra, Teoria de Lie, Combinatória,
+Matemática Aplicada, Eletrônica e Fotografia.
+Ele utiliza java rotineiramente para processamento digital
+de imagens e sinais.
+  
+ -----------------------
+  
 ## :key: Códigos Importantes para ser utilizada
 
 1. Comandos importantes do *Prompt de Comando* (também utilizado no Git):
