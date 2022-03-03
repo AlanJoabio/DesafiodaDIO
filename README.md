@@ -15,17 +15,16 @@ Portfólio criado com o intuito de mostrar meus projetos ao decorrer da minha ca
 ### Os bootcamps que estou estudando e buscando novos desafios na [Digital Innovation One](https://digitalinnovation.one/).
 
 #### São:
-
+<p align="center">
 <!-- Ícones das linguagens -->
 <!-- Java -->
 <a href="[https://web.dio.me/track/java-developer]">
 <img src="./photo/java.png" alt=" - Java Developer" tittle="Java" width="70" height="70">
-  
 <!-- gft-start-4-Java -->
 <a href="[https://web.dio.me/track/gft-start-4-java]">
 <img src="./photo/gft.png" alt=" - GFT Start #4 Java" tittle="GFT" width="70" height="70">
 </a>
-
+</p>
 ----------------------------------------------------
 
 # 📖 Tutorial de Programação Java - Beginner book.
