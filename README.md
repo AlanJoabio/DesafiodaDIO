@@ -3,7 +3,7 @@
 
  <!--Banner session-->
 <p align="center">
-<img src="./photo.png" alt="DIO" tittle="Digital Innovation One">
+<img src="./home/alanjoabio/Downloads/Mono.png" alt="DIO" tittle="Digital Innovation One">
 </p>
 
  
