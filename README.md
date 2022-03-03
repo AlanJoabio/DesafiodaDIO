@@ -1,5 +1,6 @@
-<p align="center">
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/AlanJoabio/DesafiodaDIO)
+
 ![GitHub](https://img.shields.io/github/license/AlanJoabio/DesafiodaDIO)
 
   
