@@ -1,14 +1,9 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/AlanJoabio/DesafiodaDIO) 
 
-<!-- repo size -->
-<img src="[https://img.shields.io/github/repo-size/AlanJoabio/DesafiodaDIO](https://img.shields.io/github/repo-size/AlanJoabio/DesafiodaDIO)">
-
-
 <!--Banner session-->
 <p align="center">
 <img src="./photo/Mono.png" alt="DIO" tittle="Digital Innovation One">
 </p>
-
 
 <!--Banner session-->
 
