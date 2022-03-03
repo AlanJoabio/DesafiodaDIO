@@ -89,18 +89,14 @@ Portfólio criado com o intuito de mostrar meus projetos ao decorrer da minha ca
 
 # Sobre os autores
 
-https://www.dm.ufscar.br/~waldeck/curso/java/sadao.jpg
-
 [Sadao Massago](http://www.dm.ufscar.br/~sadao/) é licenciado em Matemática pela UEM,
 Mestre em Ciências pelo ICMC-USP e Doutor em
 Matemática pelo ICMC-USP. Ele é professor
 no Departamento de Matemática da UFSCar desde 1995.
-
 Seus principais interesses são Topologia Algébrica,
 Teoria de Nós, Matemática Aplicada e
 Programação de Computadores.
 
-![](https://www.dm.ufscar.br/~waldeck/curso/java/waldeck.jpg)
 
 [Waldeck Schützer](http://www.dm.ufscar.br/~waldeck/)[Follow @ProfSchutzer](http://twitter.com/ProfSchutzer)  
 é bacharel em Matemática
