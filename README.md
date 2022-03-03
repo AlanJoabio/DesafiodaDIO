@@ -1,9 +1,9 @@
 <!-- Badges session -->
 <p align="center">
 <!-- repo size -->
-<img src="[![GitHub repo size](https://img.shields.io/github/repo-size/AlanJoabio/DesafiodaDIO)](![GitHub repo size](https://img.shields.io/github/repo-size/AlanJoabio/DesafiodaDIO))" alt="Tamanho do repositório">
+![GitHub repo size](https://img.shields.io/github/repo-size/AlanJoabio/DesafiodaDIO)
 <!-- licence MIT -->
-<img src="[![GitHub](https://img.shields.io/github/license/AlanJoabio/DesafiodaDIO)](![GitHub](https://img.shields.io/github/license/AlanJoabio/DesafiodaDIO))" alt="Licença MIT">
+![GitHub](https://img.shields.io/github/license/AlanJoabio/DesafiodaDIO)
 </p>
   
 <h1 align="center">
@@ -14,12 +14,9 @@ Portfólio criado com o intuito de mostrar meus projetos ao decorrer da minha ca
 ### Os bootcamps que estou estudando e buscando novos desafios e projetos que encontrei na [Digital Innovation One](https://digitalinnovation.one/). 
 #### São:
 <!-- Ícones das linguagens -->
-<p align="center">
- 
- <!-- Java -->
+  <!-- Java -->
 <a href="[https://web.dio.me/track/java-developer]">
 <img src="./assets/java.svg" alt=" - Java Developer" tittle="Java" width="70" height="70">
-</a>
 
 <!-- Java -->
 <a href="[https://web.dio.me/track/gft-start-4-java]">
