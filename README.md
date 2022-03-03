@@ -1,7 +1,12 @@
-
 ![GitHub repo size](https://img.shields.io/github/repo-size/AlanJoabio/DesafiodaDIO) ![GitHub](https://img.shields.io/github/license/AlanJoabio/DesafiodaDIO)
 
-  
+
+ <!--Banner session-->
+<p align="center">
+<img src="./photo.png" alt="DIO" tittle="Digital Innovation One">
+</p>
+
+ 
 <h1 align="center">
 Desafio de Projeto sobre Git/Github da DIO
 <h4 align="center">
