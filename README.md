@@ -28,7 +28,7 @@ Portfólio criado com o intuito de mostrar meus projetos ao decorrer da minha ca
 
 ----------------------------------------------------
 
-# 📖 Tutorial de Programação Java - um book para iniciante.
+# 📖 Tutorial de Programação Java - Beginner book.
 
 > Este tutorial de programação Java surgiu de uma série de palestras
 > ministradas pelos autores aos professores e alunos do Departamento
